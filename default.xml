@@ -129,6 +129,7 @@
   <project path="external/google-fonts/coming-soon" name="platform/external/google-fonts/coming-soon" groups="pdk" />
   <project path="external/google-fonts/cutive-mono" name="platform/external/google-fonts/cutive-mono" groups="pdk" />
   <project path="external/google-fonts/dancing-script" name="platform/external/google-fonts/dancing-script" groups="pdk" />
+  <project path="external/google-fonts/google-sans" name="platform_external_google-fonts_google-sans" remote="github" />
   <project path="external/google-fonts/lato" name="platform/external/google-fonts/lato" groups="pdk" />
   <project path="external/google-fonts/source-sans-pro" name="platform/external/google-fonts/source-sans-pro" groups="pdk" />
   <project path="external/google-fonts/rubik" name="platform/external/google-fonts/rubik" groups="pdk" />
